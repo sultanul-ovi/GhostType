@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://github.com/sultanul-ovi/GhostType/banner.png"  width="400" height="200" />
+   <img src="https://github.com/sultanul-ovi/GhostType/banner.png"  width="200" height="112.5" />
 <br> GhostType: Cross-Platform Keylogger with Stealth Capabilities </br>
 </h1>
 
