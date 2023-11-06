@@ -16,7 +16,7 @@ A sophisticated educational tool for demonstrating keylogging and anti-keyloggin
 
 * **Python 3.6.5** - [https://www.python.org/](https://www.python.org/)
 
-# Inputs To Mail.
+## Inputs To Mail.
 Get Keyboard,Mouse,ScreenShot,Microphone Inputs and Send to your Mail.
 Purpose of the project is testing the security of information systems
 
