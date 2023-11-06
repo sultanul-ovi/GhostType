@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[[images/](https://github.com/sultanul-ovi/GhostType/images/)Teal Green Cyber Neon Gaming Livestream Twitch Screen.png)" width="200" height="200" />
+   <img src="https://github.com/sultanul-ovi/GhostType/images/Teal Green Cyber Neon Gaming Livestream Twitch Screen.png"  width="200" height="200" />
 <br> GhostType: Cross-Platform Keylogger with Stealth Capabilities </br>
 </h1>
 
