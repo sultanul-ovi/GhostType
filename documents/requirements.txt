@@ -1,0 +1,15 @@
+pysocks
+pycryptodomex
+future
+keyboard
+psutil
+pywinauto
+numpy
+pandas
+Flask
+requests
+pycryptodome
+pynput==1.7.3
+pyscreenshot==0.5.1
+sounddevice==0.4.3
+Pillow==9.3.0
