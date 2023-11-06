@@ -170,9 +170,9 @@ Each component of this keylogger is meticulously crafted to ensure comprehensive
 
 ![github-small](/images/2.png)
 
-# Acknowledgments
+#### Acknowledgments
 
-I'd like to express my gratitude for the inspiration I've drawn from the works of [Hussein Bakri](https://github.com/HusseinBakri), [Casey Scarborough](https://github.com/caseyscarborough), and [Giacomo Lawrance](https://github.com/GiacomoLaw) on GitHub. Their innovative and insightful projects have been invaluable in guiding the design and development of my own work. Their commitment to sharing knowledge and fostering open-source collaboration has profoundly impacted my approach to this project, and for that, I am deeply appreciative.
+> I'd like to express my gratitude for the inspiration I've drawn from the works of [Hussein Bakri](https://github.com/HusseinBakri), [Casey Scarborough](https://github.com/caseyscarborough), and [Giacomo Lawrance](https://github.com/GiacomoLaw) on GitHub. Their innovative and insightful projects have been invaluable in guiding the design and development of my own work. Their commitment to sharing knowledge and fostering open-source collaboration has profoundly impacted my approach to this project, and for that, I am deeply appreciative.
 
 #### Disclaimer
 
